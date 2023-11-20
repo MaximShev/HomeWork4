@@ -63,5 +63,6 @@ public class Main {
     } else if (three > one && three > two) {
         System.out.println("Наибольшее число " + three);
     }
+    /// Задачи выполнены, прошу проверить корректность выполнения. В задачах boolean не использовался, правильно ли это?
     }
 }
